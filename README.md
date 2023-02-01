@@ -1,7 +1,7 @@
 # geo2zip
 Hey! Here is the link to the article referencing this script. https://www.gislounge.com/populate-cell-zip-code-based-address-google-sheets/
 
-I 100% recommend you give it a read but if the sparknotes version is below:
+I 100% recommend you give it a read but the sparknotes version is below:
 
 How to populate a cell with the ZIP Code Based on an Address in Google Sheets by using Google App Scripts
 
